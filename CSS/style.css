@@ -784,7 +784,7 @@ footer .copyright{
         grid-row-gap: 8rem;
     }
 .swiper-wrapper{
-        max-width: 414px;
+        max-width: 400px;
     }
     section.services .card-wrapper .card img{
         top: -2.5rem;
