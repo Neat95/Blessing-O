@@ -737,6 +737,9 @@ footer .copyright{
     .hero{
         flex-direction: column;
     }
+    .mobile-nav{
+        max-width: fit-content;
+    }
     header{
      clip-path: polygon(0 0, 100% 0, 100% 100%, 69% 95%, 0 100%);
 
